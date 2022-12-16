@@ -2,9 +2,19 @@
 Projeto Blizzard (Em andamento)
 </h1>
 
-<p>🎯 Redesign do site da Blizzard</strong></p>
+<p>🎯 Redesign do site da Blizzard, incluindo responsividade</strong></p>
 <p>PS: Nem todas as funções de JS foram implementadas.</strong></p>
- 
+
+<h2>
+🖥️ Demonstração
+  </h2>
+  
+  <p>Desktop</p>
+  <img src="https://raw.githubusercontent.com/mau-rocha/projeto-blizzard/main/screenshots/screenshot-blizzard-desktop.PNG" width="1200px">
+  
+  <p>Mobile</p>
+  <img src="https://raw.githubusercontent.com/mau-rocha/projeto-blizzard/main/screenshots/screenshot-blizzard-mobile.PNG" width="450px">
+
  <h2>
 🛠 Tecnologias Utilizadas
   </h2>
