@@ -26,4 +26,4 @@ Projeto Blizzard (Em andamento)
 <h2>
 👀 Testar o Projeto
   </h2>
-<a href="https://mauricio-blizzard.netlify.app/">Testar o Projeto</a>
+<a href="https://mau-rocha.github.io/projeto-blizzard/">Testar o Projeto</a>
